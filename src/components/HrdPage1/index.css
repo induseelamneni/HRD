@@ -1,0 +1,11 @@
+.hrd-background {
+  background-image: url('https://tse4.mm.bing.net/th?id=OIP.xPgymNntVkVZ1HQ3hfk7gAHaE8&pid=Api&P=0&w=256&h=172');
+  background-size: cover;
+  height: 200vh;
+}
+.render-card {
+  margin-left: 130px;
+  margin-top: 50px;
+  height: 100%;
+  align-self: center;
+}
